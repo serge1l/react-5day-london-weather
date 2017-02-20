@@ -1,0 +1,19 @@
+.dayitem-day-container {
+  display: flex;
+  -webkit-justify-content: center; /* Safari 6.1+ */
+  justify-content: center;
+  -webkit-align-items: center; /* Safari 7.0+ */
+  align-items: center;
+  -webkit-flex-direction: column; /* Safari 6.1+ */
+  flex-direction: column;
+  margin: 35px;
+}
+
+.dayitem-subheader {
+  font-size: 21pt;
+  color: #666;
+  font-weight: 100;
+}
+.dayitem-weather {
+  height: 130px;
+}
